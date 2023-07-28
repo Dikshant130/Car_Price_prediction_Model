@@ -12,5 +12,3 @@ Created By : Group 07
                   DIKSHANT TYAGI;
                   BHANU PRIYA;
                   DUSHYANT SINGH;
-                  DIVYANSH SHRIVASTAVA;
-                  CHANDINI SINGH;
